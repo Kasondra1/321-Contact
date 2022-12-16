@@ -1,0 +1,15 @@
+C:\Users\MCA\source\repos\12.16test-kasondra\bin\Debug\net6.0\12.16test-kasondra.exe
+C:\Users\MCA\source\repos\12.16test-kasondra\bin\Debug\net6.0\12.16test-kasondra.deps.json
+C:\Users\MCA\source\repos\12.16test-kasondra\bin\Debug\net6.0\12.16test-kasondra.runtimeconfig.json
+C:\Users\MCA\source\repos\12.16test-kasondra\bin\Debug\net6.0\12.16test-kasondra.dll
+C:\Users\MCA\source\repos\12.16test-kasondra\bin\Debug\net6.0\12.16test-kasondra.pdb
+C:\Users\MCA\source\repos\12.16test-kasondra\obj\Debug\net6.0\12.16test-kasondra.csproj.AssemblyReference.cache
+C:\Users\MCA\source\repos\12.16test-kasondra\obj\Debug\net6.0\12.16test-kasondra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\12.16test-kasondra\obj\Debug\net6.0\12.16test-kasondra.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\12.16test-kasondra\obj\Debug\net6.0\12.16test-kasondra.AssemblyInfo.cs
+C:\Users\MCA\source\repos\12.16test-kasondra\obj\Debug\net6.0\12.16test-kasondra.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\12.16test-kasondra\obj\Debug\net6.0\12.16test-kasondra.dll
+C:\Users\MCA\source\repos\12.16test-kasondra\obj\Debug\net6.0\refint\12.16test-kasondra.dll
+C:\Users\MCA\source\repos\12.16test-kasondra\obj\Debug\net6.0\12.16test-kasondra.pdb
+C:\Users\MCA\source\repos\12.16test-kasondra\obj\Debug\net6.0\12.16test-kasondra.genruntimeconfig.cache
+C:\Users\MCA\source\repos\12.16test-kasondra\obj\Debug\net6.0\ref\12.16test-kasondra.dll
